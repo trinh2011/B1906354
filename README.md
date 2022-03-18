@@ -3,7 +3,7 @@ Họ và tên: Nguyễn Ái Trinh
 Ngành: Hệ thống thông tin 01 (DI1995A1)
 MSSV: B1906354
 # WEBSITE BÁN HOA ONLINE
-![CỬA HÀNG HOA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sapo.vn%2Fblog%2Fmo-shop-hoa-tuoi-can-bao-nhieu-von&psig=AOvVaw2mCZi5bdjhi1MCoAr6l1d-&ust=1647704487923000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDgouH_z_YCFQAAAAAdAAAAABAK)
+![CỬA HÀNG HOA](https://lh3.googleusercontent.com/-Bc1e9lXkk1Cg09z90qO7cS8tu-M1x5iathqlNgPUPflLDW1QpPUD8mq_dWvlPg15H7pIU97_200RxoC2KJy-P2gELhC=w824)
 ## Website được tạo ra đề làm gì?
 ##### Cùng với sự phát triển của nền kinh tế, con người ngày càng bộn về với trăm nghìn công việc, chúng ta không có nhiều thời gian cho việc tìm kiếm, chọn lựac mua sắm những món quà cho mình và Người thân, đơn giản chỉ là những bó hoa thôi những cũng làm cho chúng ta cảm thấy cuộc sống nhẹ nhàng vui vẻ, cảm giác thanh thản, quên đi những mệt mỏi trông công việc hằng ngày.
 ## Mục tiêu của website tạo ra
